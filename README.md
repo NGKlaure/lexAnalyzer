@@ -1,2 +1,2 @@
 # lexAnalyzer
-Lexical analyzer for dot language
+Lexical analyzer.Take input and recognize tokens
